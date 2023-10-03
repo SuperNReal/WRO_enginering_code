@@ -1,0 +1,13 @@
+{
+	"name": "HuskyLens",
+	"version": "1.0.0",
+	"description": "HuskyLens is an easy-to-use AI machine vision sensor with 6 built-in functions: face recognition, object tracking, object recognition, line following, color detection and tag detection.",
+	"keywords": "ai, camera, recognition, i2c",
+	"homepage": "https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HuskyLens/HUSKYLENSArduino"
+	},
+	"frameworks": "arduino",
+	"platforms": "*"
+}

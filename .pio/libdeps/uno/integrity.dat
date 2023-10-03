@@ -1,0 +1,5 @@
+huskylens/HuskyLens@^1.0.0
+arduino-libraries/Stepper@^1.1.3
+arduino-libraries/Servo@^1.2.1
+featherfly/SoftwareSerial@^1.0
+bblanchon/ArduinoJson@^6.21.3
